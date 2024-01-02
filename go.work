@@ -1,0 +1,6 @@
+go 1.21.0
+
+use (
+	./01_HELLO_WORLD
+	./section2_practice
+)
